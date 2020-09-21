@@ -1,0 +1,21 @@
+﻿  client.cpp
+  damier.cpp
+  lecturetxt.cpp
+  obstacle.cpp
+  plateau.cpp
+  probleme.cpp
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\probleme.cpp(112,27): warning C4018: '<': signed/unsigned mismatch
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\probleme.cpp(112,50): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\probleme.cpp(168,20): warning C4018: '<': signed/unsigned mismatch
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\probleme.cpp(167,14): warning C4101: 'posY': unreferenced local variable
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\probleme.cpp(167,9): warning C4101: 'posX': unreferenced local variable
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\probleme.cpp(206,20): warning C4018: '<': signed/unsigned mismatch
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\probleme.cpp(205,14): warning C4101: 'posY': unreferenced local variable
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\probleme.cpp(205,9): warning C4101: 'posX': unreferenced local variable
+  robot.cpp
+  Generating Code...
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\plateau.cpp(175): warning C4715: 'Plateau::directionDroite': not all control paths return a value
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\plateau.cpp(193): warning C4715: 'Plateau::directionBas': not all control paths return a value
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\plateau.cpp(166): warning C4715: 'Plateau::directionGauche': not all control paths return a value
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\plateau.cpp(184): warning C4715: 'Plateau::directionHaut': not all control paths return a value
+  VRPwConstraintsonCheckerboard.vcxproj -> C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\Debug\VRPwConstraintsonCheckerboard.exe

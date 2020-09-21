@@ -1,0 +1,2 @@
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\Debug\VRPwConstraintsonCheckerboard.exe
+C:\Personnel\Programmation\cppVisualStudio\VRPwConstraintsonCheckerboard\VRPwConstraintsonCheckerboard\Debug\VRPwConstraintsonCheckerboard.pdb
